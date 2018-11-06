@@ -1,6 +1,14 @@
-# Insert chapter 2 title here
+# WORK DONE IN WEEK 1
 
 *Describe the work you have done this week and summarize your learning.*
+
+# In this week work I have
+# - started using R and Rmarkdown
+# - started using Github
+# - forked repository from Github
+# - cloned the repository on my computer
+# - edited the repository on my computer
+# - updated the changes onto Github
 
 - Describe your work and results clearly. 
 - Assume the reader has an introductory course level understanding of writing and reading R code as well as statistical methods
